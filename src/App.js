@@ -45,4 +45,47 @@ function App() {
                 <span>- Alex R.</span>
               </div>
               <div className="review">
-                <img src="c
+                <img src="customer2.jpg" alt="Customer 2" className="review-img" />
+                <p>"Great experience, I built my custom PC with ease."</p>
+                <div className="stars">★★★★★</div>
+                <span>- Maria L.</span>
+              </div>
+              <div className="review">
+                <img src="customer3.jpg" alt="Customer 3" className="review-img" />
+                <p>"Highly recommend! Fantastic customer support."</p>
+                <div className="stars">★★★★★</div>
+                <span>- John D.</span>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className="features">
+          <div className="container">
+            <h2>Why Choose Us?</h2>
+            <div className="feature-list">
+              <div className="feature">
+                <h3>Custom Builds</h3>
+                <p>Build a PC that matches your needs and budget.</p>
+              </div>
+              <div className="feature">
+                <h3>High Quality</h3>
+                <p>We use only the best components for maximum performance.</p>
+              </div>
+              <div className="feature">
+                <h3>Expert Support</h3>
+                <p>Get help from our experienced support team.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+      <footer>
+        <div className="container">
+          <p>&copy; 2024 PC Assembly and Configuration. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+  );
+}
+
+export default App;
