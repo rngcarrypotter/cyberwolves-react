@@ -1,5 +1,6 @@
 import React from 'react';
 import './styles.css';
+import Configurator from './Configurator';
 
 function App() {
   return (
@@ -79,6 +80,7 @@ function App() {
           </div>
         </section>
       </main>
+      <Configurator />
       <footer>
         <div className="container">
           <p>&copy; 2024 PC Assembly and Configuration. All rights reserved.</p>
