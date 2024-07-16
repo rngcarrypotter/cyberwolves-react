@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 import './styles.css';
 import Configurator from './Configurator';
 
@@ -12,11 +12,11 @@ function App() {
         </header>
         <nav className="navbar">
           <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/configurator">Configurator</a></li>
-            <li><a href="/repair">PC & Phone Repair</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/contact">Contact</a></li>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/configurator">Configurator</Link></li>
+            <li><Link to="/repair">PC & Phone Repair</Link></li>
+            <li><Link to="/about">About</Link></li>
+            <li><Link to="/contact">Contact</Link></li>
           </ul>
         </nav>
         <main>
@@ -47,7 +47,7 @@ function Home() {
         <div className="hero-text">
           <h1>Build Your Perfect PC</h1>
           <p>Select components and configure your dream PC with ease.</p>
-          <button className="cta-button" onClick={() => window.location.href = '/configurator'}>Get Started</button>
+          <Link to="/configurator" className="cta-button">Get Started</Link>
         </div>
         <div className="video-container">
           <iframe
