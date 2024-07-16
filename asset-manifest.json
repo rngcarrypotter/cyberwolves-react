@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cyberwolves-react/static/css/main.e85ee7fc.chunk.css",
-    "main.js": "/cyberwolves-react/static/js/main.36dc2c09.chunk.js",
-    "main.js.map": "/cyberwolves-react/static/js/main.36dc2c09.chunk.js.map",
+    "main.js": "/cyberwolves-react/static/js/main.1639a359.chunk.js",
+    "main.js.map": "/cyberwolves-react/static/js/main.1639a359.chunk.js.map",
     "runtime-main.js": "/cyberwolves-react/static/js/runtime-main.cebb8f80.js",
     "runtime-main.js.map": "/cyberwolves-react/static/js/runtime-main.cebb8f80.js.map",
     "static/js/2.e13f7d60.chunk.js": "/cyberwolves-react/static/js/2.e13f7d60.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.cebb8f80.js",
     "static/js/2.e13f7d60.chunk.js",
     "static/css/main.e85ee7fc.chunk.css",
-    "static/js/main.36dc2c09.chunk.js"
+    "static/js/main.1639a359.chunk.js"
   ]
 }
