@@ -1,0 +1,79 @@
+.configurator {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  margin: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.configurator h2, .configurator h3 {
+  text-align: center;
+  color: #f0db4f;
+}
+
+.configurator-section {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #2e2e2e;
+  border-radius: 8px;
+}
+
+.configurator-ui {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.component-selector label {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.component-selector select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+.configurator-summary {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #2e2e2e;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.configurator-summary h3 {
+  margin-top: 0;
+  font-size: 1.5em;
+  color: #f0db4f;
+}
+
+.configurator-summary p {
+  margin: 5px 0;
+}
+
+.component-selector select:hover, .component-selector select:focus {
+  border-color: #f0db4f;
+}
+
+.configurator h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.configurator h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.configurator p {
+  font-size: 1.2em;
+}
