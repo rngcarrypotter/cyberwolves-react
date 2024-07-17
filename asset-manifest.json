@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cyberwolves-react/static/css/main.8fd49048.chunk.css",
+    "main.css": "/cyberwolves-react/static/css/main.6053fa0c.chunk.css",
     "main.js": "/cyberwolves-react/static/js/main.84579232.chunk.js",
     "main.js.map": "/cyberwolves-react/static/js/main.84579232.chunk.js.map",
     "runtime-main.js": "/cyberwolves-react/static/js/runtime-main.1f37bfc5.js",
@@ -8,14 +8,14 @@
     "static/js/2.b9c3dc6a.chunk.js": "/cyberwolves-react/static/js/2.b9c3dc6a.chunk.js",
     "static/js/2.b9c3dc6a.chunk.js.map": "/cyberwolves-react/static/js/2.b9c3dc6a.chunk.js.map",
     "index.html": "/cyberwolves-react/index.html",
-    "static/css/main.8fd49048.chunk.css.map": "/cyberwolves-react/static/css/main.8fd49048.chunk.css.map",
+    "static/css/main.6053fa0c.chunk.css.map": "/cyberwolves-react/static/css/main.6053fa0c.chunk.css.map",
     "static/js/2.b9c3dc6a.chunk.js.LICENSE.txt": "/cyberwolves-react/static/js/2.b9c3dc6a.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/cyberwolves-react/static/media/banner.dc84542b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1f37bfc5.js",
     "static/js/2.b9c3dc6a.chunk.js",
-    "static/css/main.8fd49048.chunk.css",
+    "static/css/main.6053fa0c.chunk.css",
     "static/js/main.84579232.chunk.js"
   ]
 }
